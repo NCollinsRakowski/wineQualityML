@@ -1,0 +1,1 @@
+This project was created to learn neural networks by using the wine quality dataset
